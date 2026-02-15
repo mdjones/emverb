@@ -88,11 +88,11 @@ MIT — do whatever you want with it.
 
 ### Initial creation
 
-Used Claude Opus 4.6 in GitHub Copilot
+* Used Claude Opus 4.6 in GitHub Copilot
 
 Oops. Misspelling
 
-```
+
 User: In emverb create a reverb/delay for the Electrosmith patch.init() using libDaisy and DaisySP. Make it so that delay and input signal can have varing degress of reverb applied to them sepertaly 
 
 GitHub Copilot: 

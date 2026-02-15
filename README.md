@@ -141,4 +141,4 @@ Done. Three files created in emverb:
 This gives you full independent control — you can reverb-drench only the echoes while keeping the dry signal clean, or vice versa, or any mix in between. Reverb character (decay, damping) and output mix levels are exposed as compile-time constants at the top of the source file.
 
 Made changes.
-```
+

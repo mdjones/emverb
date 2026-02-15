@@ -88,7 +88,7 @@ MIT — do whatever you want with it.
 
 ### Initial creation
 
-Used Claude Opus 4.6
+Used Claude Opus 4.6 in GitHub Copilot
 
 Oops. Misspelling
 
